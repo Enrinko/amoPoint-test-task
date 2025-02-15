@@ -13,10 +13,10 @@ class Connection
 
     public function __construct()
     {
-        $this->serverName = 'MariaDB-11.2'; // Замените на ваш сервер
-        $this->username = 'a25'; // Замените на ваше имя пользователя
-        $this->password = 'a25_Secret_Password'; // Замените на ваш пароль
-        $this->dbname = 'a25'; // Имя вашей базы данных
+        $this->serverName = 'localhost'; // Замените на ваш сервер
+        $this->username = 'your_u'; // Замените на ваше имя пользователя
+        $this->password = 'your_p'; // Замените на ваш пароль
+        $this->dbname = 'your_db'; // Имя вашей базы данных
         $conn = $this->connect();
         $conn->close();
     }
