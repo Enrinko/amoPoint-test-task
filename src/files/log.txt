@@ -1,0 +1,64 @@
+2025-01-20 17:25:42 UTC
+Windows-10-10.0.19045
+Ren'Py 8.2.1.24030407
+
+Witch Trainer Silver
+1.46.1
+Built at 2024-03-30 20:13:08 UTC
+
+Early init took 6.21s
+Loading error handling took 2.68s
+Loading script took 31.88s
+Loading save slot metadata took 1.16s
+Loading persistent took 0.03s
+Set script version to: (8, 2, 1)
+ - Init at game/scripts/gui/_gui_.rpy:7 took 0.27500 s.
+ - Init at game/scripts/utility/updater.rpy:1 took 2.20923 s.
+Running init code took 3.44s
+Loading analysis data took 0.17s
+Analyze and compile ATL took 0.34s
+Reloading save slot metadata took 0.80s
+Index archives took 0.01s
+Dump and make backups took 0.00s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.45s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.58s
+Cleaning stores took 0.00s
+Init translation took 0.46s
+Build styles took 0.03s
+Load screen analysis took 0.17s
+Analyze screens took 0.02s
+Save screen analysis took 0.00s
+Prepare screens took 0.40s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Interface start took 1.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce GTX 1060 3GB/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 560.94'
+Display Info: None
+Screen sizes: virtual=(1080, 600) physical=(1920, 1017) drawable=(1920, 1017)
+Could not open 'cache/shaders.txt':
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1080, 600) physical=(1920, 1017) drawable=(1920, 1017)
+Could not open 'cache/shaders.txt':
+Maximum texture size: 4096x4096
+Invalid modifier for file: characters/hooch/poses/default/clothes/gloves/sport_gloves/0_top.webp
+Invalid modifier for file: characters/hooch/poses/default/clothes/gloves/sport_gloves/extra_top.webp
+Invalid modifier for file: characters/hooch/poses/default/clothes/gloves/sport_gloves/outline_top.webp
+Invalid modifier for file: characters/hooch/poses/default/clothes/gloves/sport_gloves/0_top.webp
+Invalid modifier for file: characters/hooch/poses/default/clothes/gloves/sport_gloves/extra_top.webp
+Invalid modifier for file: characters/hooch/poses/default/clothes/gloves/sport_gloves/outline_top.webp
+Screen sizes: virtual=(1080, 600) physical=(1760, 978) drawable=(1760, 978)
+Could not open 'cache/shaders.txt':
+Maximum texture size: 4096x4096
